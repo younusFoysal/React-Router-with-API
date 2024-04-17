@@ -1,0 +1,11 @@
+.users{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    /*place-content: center;*/
+
+    /*align-items: center;*/
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
